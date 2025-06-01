@@ -5,8 +5,8 @@ Description This project is an AI-powered multi-agent system that automates the 
 
 How to run:
 1) Clone repository:
-   git clone https://github.com/your-username/customer-feedback-analysis.git
-   cd customer-feedback-analysis
+   git clone https://github.com/YoussefShafeek/Case-Study---AI-Collaborator.git
+   cd Case-Study---AI-Collaborator
   
 2) Install dependencies:
    pip install -r requirements.txt
