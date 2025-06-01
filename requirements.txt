@@ -1,0 +1,10 @@
+langgraph # To build the multi-agent workflow.
+langchain # Required for defining and running each agent using GPT models
+langchain-openai  
+langchain-core 
+openai # Sometimes needed for direct OpenAI API calls, and good to have
+pandas # For loading and filtering the CSV dataset
+scikit-learn # For accuracy and classification report calculations
+rouge-score # For evaluating summary quality using ROUGE metrics
+fpdf # To generate the final PDF report
+python-dotenv # To load your .env file with the OpenAI key
