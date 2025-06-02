@@ -11,7 +11,7 @@ How to run:
 2) Install dependencies:
    pip install -r requirements.txt
   
-3) Add Your OpenAI API key to .env file:
+3) Add Your OpenAI API key to a .env file:
    OPENAI_API_KEY=your-api-key
 
 4) Run the main script:
