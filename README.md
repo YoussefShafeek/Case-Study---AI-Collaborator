@@ -16,3 +16,10 @@ How to run:
 
 4) Run the main script:
    python main.py
+
+Project Structure:
+- 'main.py' – Entry point for running the full analysis
+- 'agents/' – Contains all LangGraph agents (NLP, Sentiment, etc.)
+- 'utils/' – Utility functions (PDF export, data loading)
+- 'evaluate_performance.py' – Accuracy and ROUGE score evaluation
+- `requirements.txt' – Python dependencies
